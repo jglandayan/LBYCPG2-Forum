@@ -2,11 +2,17 @@
 
 This project is simple and basic implementation of a forum application that is created using the Django Python language as a final project for the course of LBYCPG2.
 For this forum application, the following features are included:
+
 -Login/Logout
+
 -User Registration
+
 -Posting a question to be seen by others.
+
 -Being able to reply to the question.
+
 -Being able to reply to the replies to a question.
+
 -Requiring an account to be able to post a question and to be able to reply to questions.
 
 **Authors**
